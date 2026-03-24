@@ -108,6 +108,16 @@ streamlit run app.py
 * Customer behavior insights
 * Data-driven decision making
 
+---
+
+
+---
+
+## 🌐 Live Demo
+
+https://aiinsightgenerator-97mg73bhnmzhwiwjkrdqhy.streamlit.app/
+
+---
 
 ## 🔮 Future Enhancements
 
@@ -123,4 +133,5 @@ streamlit run app.py
 Aspiring Data Analyst | Python | SQL | Data Visualization
 
 ---
+
 
